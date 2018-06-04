@@ -1,7 +1,7 @@
 # SegPoi
 PyQt5-based user interface to several Chinese word segmentation libraries
 
-Supports:
+Supports/incorporates:
 1. Stanford CoreNLP libraries available from
    https://stanfordnlp.github.io/CoreNLP/
 2. ICTCLAS Python wrapper
