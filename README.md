@@ -11,7 +11,7 @@ Supports/incorporates:
 4. OpenCC (Open Chinese Convert)
    https://github.com/BYVoid/OpenCC
    
-Installation:
+**Installation**
 1. Install Java SE Development Kit 8+
 2. Get Stanford CoreNLP libraries (e.g., version 3.9.1):
    stanford-chinese-corenlp-2018-02-27-models.jar,
